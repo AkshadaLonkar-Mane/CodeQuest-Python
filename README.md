@@ -13,7 +13,9 @@ Embark on an adventurous journey through the world of Python programming with a 
 ## 🛠 How to Get Started
 
 1. **Clone the Repository**:  
-   Download the repository to your local machine using the following command:
-   ```bash
-   https://git@github.com:AkshadaLonkar-Mane/CodeQuest-python.git
+   Download the repository to your local machine using the following link:
+
+https://github.com/AkshadaLonkar-Mane/CodeQuest-python/blob/main/StringQuest.md
+
+   
    
