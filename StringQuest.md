@@ -40,5 +40,4 @@ Exercise: 13
 Given the code below, insert the correct order to concatenate my_string with the following string:
 
 Exercise: 14
-
 Given the code below, insert the correct order to convert the first letter of each word in the string to uppercase.
