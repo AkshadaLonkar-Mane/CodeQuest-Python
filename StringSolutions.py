@@ -184,6 +184,74 @@ print("Uppercase title is: ", string_title)
 
 # Output: Hello World 2024! Python Is Fun.
 #----------------------------------------------------------------------------------------------
+Exercise:15
+#Given the code below, use slicing and insert the correct order to return the first 12 characters in the string. Use a single, positive index!
+"""
+Using slicing to get the first 12 characters of the string
+"""
+first_12_char =  my_string[:12]
+print('first 12 characters =  ', first_12_char)
+
+# Output: first 12 characters =   Hello World 
+#----------------------------------------------------------------------------------------------
+
+Exercise:16
+# Given the code below, use slicing and insert the correct order to return the last 9 characters of the string. Use a single, negative index!
+"""
+Using negative indexing to get last 9 characters of the string
+"""
+last_14_char = my_string[-14:]
+print('last 14 characters of the string = ', last_14_char)
+
+# Output: last 14 characters of the string =  python is fun.
+#----------------------------------------------------------------------------------------------
+
+Exercise:17
+# Given the code below, use slicing and insert the correct code on line 3 in order to return the entire string in reversed order.
+"""
+Using slicing method to reverse the entire string.
+"""
+reversed_string = my_string[::-1]
+print('reversed string = ', reversed_string)
+
+# Output: reversed string =  .nuf si nohtyp !4202 dlroW olleH
+#----------------------------------------------------------------------------------------------
+
+Exercise:18
+# Given the code below, use slicing and insert the correct code on line 3 in order to return every 7th character of the string, starting with the first character.
+"""
+Using slicing method to get every 7th character of the string.
+"""
+every_7th_char = my_string[::7]
+print("every 7th character of the string is : ", every_7th_char)
+
+# Output: every 7th character of the string is :  Ho2hf
+#----------------------------------------------------------------------------------------------
+
+Exercise:19
+# Given the code below, use slicing and insert the correct order to return the string except the first 10 characters. Use a single, positive index!
+"""
+Using slicing to return the string except the first 10 characters.
+"""
+remaining_string = my_string[12:]
+print('string except the first 10 characters is: ', remaining_string)
+
+# Output: string except the first 10 characters is:  2024! python is fun.  
+#----------------------------------------------------------------------------------------------
+
+Exercise:20
+# Given the code below, use slicing and insert the correct order to return the string except the last 4 characters. Use a single, negative index!
+"""
+Use slicing to get the string except the last 4 characters
+"""
+string_without_last_4 = my_string[:-4]
+print("string except the last 4 characters is: ", string_without_last_4)
+
+# Output: string except the last 4 characters is:  Hello World 2024! python is 
+#----------------------------------------------------------------------------------------------
+
+
+
 
 
 
