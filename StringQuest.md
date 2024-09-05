@@ -40,4 +40,23 @@ Exercise: 13
 Given the code below, insert the correct order to concatenate my_string with the following string:
 
 Exercise: 14
+
 Given the code below, insert the correct order to convert the first letter of each word in the string to uppercase.
+
+Exercise:15
+Given the code below, use slicing and insert the correct order to return the first 12 characters in the string. Use a single, positive index!
+
+xercise:16
+Given the code below, use slicing and insert the correct order to return the last 9 characters of the string. Use a single, negative index!
+
+Exercise:17
+Given the code below, use slicing and insert the correct code on line 3 in order to return the entire string in reversed order.
+
+Exercise:18
+Given the code below, use slicing and insert the correct code on line 3 in order to return every 7th character of the string, starting with the first character.
+
+Exercise:19
+Given the code below, use slicing and insert the correct order to return the string except the first 10 characters. Use a single, positive index!
+
+Exercise:20
+Given the code below, use slicing and insert the correct order to return the string except the last 4 characters. Use a single, negative index!
