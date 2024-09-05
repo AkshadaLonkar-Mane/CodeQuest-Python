@@ -1,6 +1,7 @@
 my_string = "Hello World 2024! pyhton is fun."
 
 Exercise: 1
+
 Given the code below, insert the correct negative index to get the last character in the string.
 
 Exercise: 2
