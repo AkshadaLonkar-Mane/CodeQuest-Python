@@ -1,7 +1,6 @@
 my_string = "Hello World 2024! pyhton is fun."
 
 Exercise: 1
-
 Given the code below, insert the correct negative index to get the last character in the string.
 
 Exercise: 2
@@ -41,7 +40,6 @@ Exercise: 13
 Given the code below, insert the correct order to concatenate my_string with the following string:
 
 Exercise: 14
-
 Given the code below, insert the correct order to convert the first letter of each word in the string to uppercase.
 
 Exercise:15
