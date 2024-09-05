@@ -46,7 +46,7 @@ Given the code below, insert the correct order to convert the first letter of ea
 Exercise:15
 Given the code below, use slicing and insert the correct order to return the first 12 characters in the string. Use a single, positive index!
 
-xercise:16
+Exercise:16
 Given the code below, use slicing and insert the correct order to return the last 9 characters of the string. Use a single, negative index!
 
 Exercise:17
